@@ -1,13 +1,14 @@
 # 📰 News Homepage
 
-Proyecto realizado como parte del reto [Frontend Mentor - News Homepage Challenge](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl).  
-El objetivo fue replicar un diseño dado, con comportamiento responsive y un menú hamburguesa interactivo.
+Proyecto desarrollado como parte de mi portafolio para practicar y demostrar habilidades en React, Vite y Tailwind CSS, con enfoque en diseño responsive, buenas prácticas de maquetado y un menú hamburguesa interactivo optimizado para dispositivos móviles.
+
+El objetivo fue crear una interfaz moderna y funcional, aplicando metodología mobile-first, optimización de recursos y un código limpio y escalable.
 
 ---
 
 ## 🚀 Demo en vivo
 
-🔗 **[Ver Proyecto Online](https://TU-LINK-AQUI.vercel.app)**
+🔗 **[Ver Proyecto Online](https://news-homepage-kohl-delta.vercel.app/)**
 
 ---
 
@@ -40,7 +41,7 @@ El objetivo fue replicar un diseño dado, con comportamiento responsive y un men
 
 ---
 
-## 📚 Lo que aprendí
+## 📚 Lo apliqué
 
 - Configuración y uso de **Tailwind CSS 4.1** con colores y tipografías personalizadas.
 - Manejo del estado con **React Hooks** (`useState`).
